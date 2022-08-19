@@ -1,0 +1,34 @@
+{
+  // === editor ===
+  "editor.inlayHints.enabled": "off",
+  "editor.codeLens": false,
+  "editor.renderWhitespace": "none",
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.guides.indentation": false,
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.cursorBlinking": "solid",
+  "editor.bracketPairColorization.enabled": false,
+
+  // === workbench ===
+  "workbench.activityBar.visible": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.statusBar.visible": false,
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#ffffff",
+    "editorBracketHighlight.foreground2": "#ffffff",
+    "editorBracketHighlight.foreground3": "#ffffff",
+    "editorBracketHighlight.foreground4": "#ffffff",
+    "editorBracketHighlight.foreground5": "#ffffff",
+    "editorBracketHighlight.foreground6": "#ffffff",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#fd951f9f"
+  },
+
+  // === breadcrumbs ===
+  "breadcrumbs.enabled": false,
+
+  // === zen mode ===
+  "zenMode.centerLayout": false,
+  "zenMode.silentNotifications": true
+}
